@@ -1,1 +1,1 @@
-# DevOps and Cloud Projects
+# DevOps Projects
